@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Leif (Yan Chen) 👋
 
-<!--
-**yanchen142857/yanchen142857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"Turning Chaos into Order."*
 
-Here are some ideas to get you started:
+```python
+class Leif:
+    def __init__(self):
+        self.major = "AI & Big Data"
+        self.focus = ["System Architecture", "Causal Inference"]
+        self.location = "Sino-German College"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def mission(self):
+        # 142857: The cyclic number of balance
+        return "Building robust infrastructure for complex realities."
